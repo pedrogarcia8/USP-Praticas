@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600262943 source:c:\users\pedro\desktop\usp\2 º semestre\alg1\ex1\fila.c
+	<stdio.h>
+	<assert.h>
+	<stdlib.h>
+	"fila.h"
+
+1600262529 c:\users\pedro\desktop\usp\2 º semestre\alg1\ex1\fila.h
+
+1600262874 source:c:\users\pedro\desktop\usp\2 º semestre\alg1\ex1\main.c
+	<stdio.h>
+	"fila.h"
+

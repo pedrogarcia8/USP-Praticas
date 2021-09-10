@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606836356 source:c:\users\pedro\desktop\usp\2 º semestre\alg1\tadavl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"avl.h"
+
+1606832187 c:\users\pedro\desktop\usp\2 º semestre\alg1\tadavl\avl.h
+
+1606836274 source:c:\users\pedro\desktop\usp\2 º semestre\alg1\tadavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+

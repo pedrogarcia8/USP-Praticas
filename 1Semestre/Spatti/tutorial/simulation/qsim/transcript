@@ -1,0 +1,37 @@
+# do portaAnd.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 22:56:55 on Mar 23,2020
+# vlog -work work portaAnd.vo 
+# -- Compiling module portaAnd
+# 
+# Top level modules:
+# 	portaAnd
+# End time: 22:56:55 on Mar 23,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 22:56:55 on Mar 23,2020
+# vlog -work work Waveform.vwf.vt 
+# -- Compiling module portaAnd_vlg_sample_tst
+# -- Compiling module portaAnd_vlg_check_tst
+# -- Compiling module portaAnd_vlg_vec_tst
+# 
+# Top level modules:
+# 	portaAnd_vlg_vec_tst
+# End time: 22:56:55 on Mar 23,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -c -do "portaAnd.do" 
+# Start time: 22:56:55 on Mar 23,2020
+# Loading work.portaAnd_vlg_vec_tst
+# Loading work.portaAnd
+# Loading work.portaAnd_vlg_sample_tst
+# Loading work.portaAnd_vlg_check_tst
+# ERROR! Vector Mismatch for output port pin_name3 :: @time = 2000000.000 ps
+#      Expected value = 0
+#      Real value = 1
+#           1 mismatched vectors : Simulation failed !
+# ** Note: $finish    : Waveform.vwf.vt(152)
+#    Time: 16 us  Iteration: 0  Instance: /portaAnd_vlg_vec_tst/tb_out
+# End time: 22:56:56 on Mar 23,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

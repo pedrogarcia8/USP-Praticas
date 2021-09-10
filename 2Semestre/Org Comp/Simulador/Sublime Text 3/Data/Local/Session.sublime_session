@@ -1,0 +1,282 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3065,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/pedro/Desktop/Simulador/snake.asm",
+					"settings":
+					{
+						"buffer_size": 34103,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Assembly ICMC/Assembly ICMC.sublime-build",
+			"command_palette":
+			{
+				"height": 360.0,
+				"selected_items":
+				[
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/pedro/Desktop/Simulador/snake.asm",
+				"/C/Users/pedro/Desktop/Simulador/snakeORGtiro.asm",
+				"/C/Users/pedro/Desktop/Simulador/snake (1).asm",
+				"/C/Users/pedro/Desktop/Simulador/BlackjackROSA.asm",
+				"/C/Users/pedro/Desktop/Simulador/TesteCPU.asm",
+				"/C/Users/balve/Desktop/BSI/Simulador/BlackjackROSA.asm",
+				"/C/Users/balve/Desktop/BlackJackAssembly-master/BlackjackROSA.asm",
+				"/C/Users/balve/Desktop/BSI/Processador-ICMC-master/Simple_Simulator/simple_simulator.c",
+				"/C/Users/balve/Desktop/BSI/Simulador/simple_simulator.c",
+				"/C/Users/balve/Desktop/BSI/Simulador/Hello4.asm",
+				"/C/Users/balve/Desktop/BSI/Simulador/Teste.asm",
+				"/C/Users/balve/Desktop/BSI/Simulador/TesteCPU.asm",
+				"/C/Users/balve/Desktop/BSI/Simulador/Versao_05_2013/Exemplos/pacman.asm",
+				"/C/Users/balve/Desktop/BSI/Processador-ICMC-master/Software_Assembly/TesteCPU.asm",
+				"/C/Users/balve/Desktop/BSI/Processador-ICMC-master/Simple_Simulator/TesteCPU.asm",
+				"/C/Users/balve/Desktop/BSI/Simulador/Sublime Text 3/sublime_text.exe",
+				"/C/Users/balve/Desktop/BSI/Simulador/Versao_05_2013/simulador_fonte/simulador.exe"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"wall_1_check",
+					"replace_food",
+					"#50",
+					"dead",
+					"Increment_score",
+					"score",
+					"#55",
+					"#50",
+					"#dead",
+					"#50",
+					"wall_1_check",
+					"Dead_Snake_2",
+					"#50",
+					"cor",
+					"5",
+					"wall_check",
+					"box_2_check",
+					"box_1_check",
+					"wall_check",
+					"box_1",
+					"_",
+					"box",
+					"|",
+					"O",
+					"-",
+					"O",
+					"OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+					"O",
+					"'O'",
+					"O",
+					"#79",
+					"Move_snake",
+					".",
+					"250",
+					"#250",
+					"SnakePos",
+					"O",
+					"79",
+					"#",
+					"A",
+					"x",
+					"A",
+					"Draw_Stage",
+					"2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/pedro/Desktop/Simulador/snake.asm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34103,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23827,
+										23828
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Assembly ICMC/Assembly ICMC.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 29.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,679,506,140,1162",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/balve/Desktop/BSI/Simulador/Hello4.sublime-workspace"
+		]
+	}
+}
